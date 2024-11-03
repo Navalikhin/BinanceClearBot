@@ -1,0 +1,18 @@
+{
+  "name": "binance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "balance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "binance-api-node": "^0.12.7",
+    "child_process": "^1.0.2",
+    "ntp-client": "^0.5.3",
+    "ws": "^8.14.2"
+  }
+}
